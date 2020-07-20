@@ -1,4 +1,8 @@
-# 1002
+URI Online Judge | 1002
+# Area of a Circle
+Adapted by Neilor Tonin, URI  Brazil
+
+### Timelimit: 1
 
 The formula to calculate the area of a circumference is defined as A = π . R2.
 Considering to this problem that π = 3.14159:
