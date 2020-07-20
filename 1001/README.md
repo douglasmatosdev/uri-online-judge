@@ -10,16 +10,10 @@ Obs.: don't forget the endline after all.
 
 Samples Input	Samples Output
 10
-9
-
-X = 19
+9                   X = 19
 
 -10
-4
-
-X = -6
+4                   X = -6
 
 15
--7
-
-X = 8
+-7                  X = 8
