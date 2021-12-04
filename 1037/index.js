@@ -14,7 +14,7 @@ if (value > 100 || value < 0) {
 
 } else if (value >= 0 && value <= 25.0000) {
     console.log("Intervalo [0,25]");
-
+    
 } else {
     console.log("Fora de intervalo");
 }
