@@ -18,5 +18,5 @@ const delta = Math.sqrt(formulaBhaskara(A, B, C));
 const R1 = (-B + delta) / (2 * A);
 const R2 = (-B - delta) / (2 * A);
 
-console.log("R1 = ", R1.toFixed(5));
-console.log("R1 = ", R2.toFixed(5));
+console.log("R1 =", R1.toFixed(5));
+console.log("R2 =", R2.toFixed(5));
