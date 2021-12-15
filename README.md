@@ -27,7 +27,7 @@
 | [1035 - Selection Test 1](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/javascript/1035)   | [1035 - Selection Test 1](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/java/src/main/URI_1035.java) |
 | [1036 - Bhaskara's Formula](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/javascript/1036) | [1036 - Bhaskara's Formula](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/java/src/main/URI_1036.java)   |
 | [1037 - Interval](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/javascript/1037)   | [1037 - Interval](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/java/src/main/URI_1037.java) |
-| [1038 - Interval](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/javascript/1038)   | [1038 - Interval](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/java/src/main/URI_1038.java) |
+| [1038 - Snack](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/javascript/1038)   | [1038 - Snack](https://github.com/douglasmatosdev/uri-online-judge/blob/master/beginner/java/src/main/URI_1038.java) |
 
 
 
