@@ -1,0 +1,10 @@
+{
+  "name": "uri-online-judge",
+  "version": "1.0.0",
+  "repository": "https://douglasmatosdev@github.com/douglasmatosdev/uri-online-judge.git",
+  "author": "douglasmatosdev <douglasmatosdev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.4.1"
+  }
+}
