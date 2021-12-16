@@ -28,4 +28,5 @@
 - [1036 - Bhaskara's Formula](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1036)
 - [1037 - Interval](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1037)  
 - [1038 - Snack](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1038)  
-- [1040 - Average 3](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1040)  
+- [1040 - Average 3](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1040)
+- [1041 - Coordinates of a Point](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1041)
