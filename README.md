@@ -30,3 +30,6 @@
 - [1038 - Snack](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1038)  
 - [1040 - Average 3](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1040)
 - [1041 - Coordinates of a Point](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1041)
+- [1042 - Simple Sort](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1042)
+- [1043 - Triângulo](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1043)
+- [1044 - Múltiplos](https://github.com/douglasmatosdev/uri-online-judge/blob/master/src/1044)
